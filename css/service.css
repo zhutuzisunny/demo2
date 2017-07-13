@@ -1,0 +1,97 @@
+.service-container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.big-banner{
+    background: #f3f9fb;
+    height: 338px;
+    width: 100%;
+}
+.big-banner img{
+    padding-top: 15px;
+}
+.title-box{
+    width: 1000px;
+    text-align: center;
+    margin-top: 80px;
+}
+.title-box span{
+    font-size: 18px;
+    padding-bottom: 5px;
+    border-bottom: 4px solid #0983ca;
+}
+.icon-box{
+    width: 1000px;
+    margin-top: 7px;
+    border-top: 1px solid #d8e6eb;
+}
+.icon-box a{
+    text-decoration: none;
+}
+.icon-box .icon-box-1{
+    width: 188px;
+    height: 275px;
+    display: inline-block;
+}
+.icon-box .icon-box-1 span{
+    display: block;
+    padding-left: 52px;
+    padding-top: 190px;
+    font-size: 18px;
+    color: #39464d;
+}
+.icon-box .icon-box-1 span.span-2{
+    font-size: 14px;
+    color: #597380;
+    padding-top: 18px;
+    padding-left: 14px;
+}
+.icon-box .icon-box-1 a{
+    display: block;
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    color: #fff;
+    background: #63bbff;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-left: 28px;
+    margin-top: 13px;
+}
+.icon-box .icon-box-1 a:hover{
+    background: #5fb1f0;
+}
+.icon-box .icon-box-1.icon1{
+    margin-top: 60px;
+    margin-left: 90px;
+    background: url("../images/icon1.png") no-repeat;
+}
+.icon-box .icon-box-1.icon2{
+    margin-top: 60px;
+    margin-left: 131px;
+    background: url("../images/icon2.png") no-repeat;
+}
+.icon-box .icon-box-1.icon3{
+    margin-top: 60px;
+    margin-left: 131px;
+    background: url("../images/icon3.png") no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
